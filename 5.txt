@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adding fifth file via clone
+=======
+adding 5th file in a row
+>>>>>>> d8b9db1 (adding 5th file)
